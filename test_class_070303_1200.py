@@ -11,7 +11,7 @@ Murka.name = 'Murka'
 Murka.years_old = 3
 
 Stepka.name = 'Stepka'
-Stepka.years_old =5
+Stepka.years_old = 5
 
 Vasiyka.name = 'Vasiya'
 Vasiyka.years_old = 8
